@@ -1,4 +1,5 @@
-﻿using Eplan.EplApi.Scripting;
+﻿using Eplan.EplApi.Base;
+using Eplan.EplApi.Scripting;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -15,7 +16,15 @@ namespace VDETools.scripts
         [DeclareAction("OpenExportFolder")]
         public void Open()
         {
-            string folderpath = @"C:\Temp";
+            Settings settings = new Settings();
+
+            if (!settings.ExistSetting("USER.SCRIPT.VDE"))
+            {
+                MessageBox.Show("VDE Settings niet geladen!");
+                return;
+            }
+
+            string folderpath = settings.GetStringSetting("USER.SCRIPTS.VDE", 3);
             if (Directory.Exists(folderpath))
             {
                 ProcessStartInfo startInfo = new ProcessStartInfo("explorer.exe")

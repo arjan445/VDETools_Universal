@@ -109,11 +109,14 @@
   <ItemGroup>
     <Compile Include="Eplan P8 V2.9.cs" />
     <Compile Include="scripts\ChangeQr.cs" />
+    <Compile Include="scripts\EnvironmentTest.cs" />
     <Compile Include="scripts\ExportPdf.cs" />
     <Compile Include="scripts\FastArticleInsert.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="scripts\LoadToolbar.cs" />
     <Compile Include="scripts\OpenExportFolder.cs" />
     <Compile Include="scripts\OpenSharepoint.cs" />
+    <Compile Include="scripts\VdeSettings.cs" />
     <Compile Include="scripts\UpdatePages.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
