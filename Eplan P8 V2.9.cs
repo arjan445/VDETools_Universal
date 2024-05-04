@@ -48,7 +48,8 @@ namespace VDETools
 
         #region loading scripts from directory
         public static void ScriptHandler()
-        { 
+        {
+            //TODO Use $(MD_SCRIPTS) subsitute path
             string scriptspath = @"C:\Users\arjan02\Source\Repos\VDETools_Universal\scripts";
 
             var files = Directory.EnumerateFiles(scriptspath);
