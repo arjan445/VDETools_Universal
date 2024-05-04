@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings ver="2.9.4" format="2">
+ <CAT name="STATION">
+  <MOD name="Print">
+   <Setting name="BlackWhite" type="bool">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="BottomMargin" type="double" range="0/1000">
+    <Val>0</Val>
+   </Setting>
+   <Setting name="ConsiderPageScale" type="bool">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="FitToPage" type="bool">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="InvertWhiteForPrint" type="bool">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="KeepAspectRatio" type="bool">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="LeftMargin" type="double" range="0/1000">
+    <Val>0</Val>
+   </Setting>
+   <Setting name="Position" type="unsigned long" range="0/8">
+    <Val>7</Val>
+   </Setting>
+   <Setting name="RightMargin" type="double" range="0/1000">
+    <Val>0</Val>
+   </Setting>
+   <Setting name="ScaleHorizontal" type="double" range="0.001/1000">
+    <Val>1.0</Val>
+   </Setting>
+   <Setting name="ScaleVertical" type="double" range="0.001/1000">
+    <Val>1.0</Val>
+   </Setting>
+   <Setting name="TopMargin" type="double" range="0/1000">
+    <Val>0.393700787401575</Val>
+   </Setting>
+  </MOD>
+ </CAT>
+</Settings>

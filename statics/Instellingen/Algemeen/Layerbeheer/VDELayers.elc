@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EplanPxfRoot Name="Layers" Type="LayersConfiguration" Version="2.9.15117" PxfVersion="1.23" SchemaVersion="1.7.15117" Source="" SourceProject="" Description="" ConfigurationFlags="66048" NumMainObjects="354" NumProjectSteps="354" NumMDSteps="0" StreamSchema="EBitmap, ,2,1,2;EPosition3D, ,0,3,2;ERay3D, ,0,4,2;EStreamableVector, ,0,5,2;BaseTextLine@W3D, ,2,22,2;Box3d@W3D, ,0,23,2;DMNCDataSet, ,1,25,2;DMNCDataSetVector, ,1,26,2;Linetype@W3D, ,0,28,2;Color@W3D, ,0,29,2;Material@W3D, ,3,30,2;Mesh3d@W3D, ,8,32,2;Mesh3dX@W3D, ,2,33,2;MeshBox@W3D, ,5,34,2;MeshEdge3d@W3D, ,0,35,2;MeshFace3d@W3D, ,2,36,2;MeshPoint3d@W3D, ,1,37,2;MeshPolygon3d@W3D, ,1,38,2;MeshSimpleTextureTriangle3d@W3D, ,2,39,2;MeshSimpleTriangle3d@W3D, ,1,40,2;MeshText3dX@W3D, ,0,41,2;MeshTriangle3d@W3D, ,2,42,2;MeshTriangleFace3d@W3D, ,0,43,2;MeshTriangleFaceEdge3D@W3D, ,0,44,2;CTexture@W3D,W3dBaseGeometry,0,71,2;MeshMate@W3D,W3dMeshModeller,7,72,2;MeshMateFace@W3D,W3dMeshModeller,1,73,2;MeshMateGrid@W3D,W3dMeshModeller,8,74,2;MeshMateGridLine@W3D,W3dMeshModeller,1,75,2;MeshMateLine@W3D,W3dMeshModeller,1,76,2">
+ <O76 Build="15110" A1="76/355" A3="0" A13="0" A14="0" R1421="14/1" A1422="1" A1423="1" A1424="VDE_Werkplaats" A1425="??_??@VDE;" A1426="1009" A1427="0" A1428="9" A1429="0.25" A1430="-4" A1433="0" A1434="0" A1435="0">
+ <S54x1432 A961="1.5" A962="0" A963="0" A964="0" A965="0" A966="7" A967="0" A968="0" A969="0" A4000="100" A4001="0" A4013="0"/>
+ </O76>
+ <O76 Build="15110" A1="76/356" A3="0" A13="0" A14="0" R1421="14/1" A1422="1" A1423="1" A1424="VDE_Buitenmontage" A1425="??_??@VDE;" A1426="1010" A1427="0" A1428="9" A1429="0.25" A1430="-4" A1433="0" A1434="0" A1435="0">
+ <S54x1432 A961="1.5" A962="0" A963="0" A964="0" A965="0" A966="7" A967="0" A968="0" A969="0" A4000="100" A4001="0" A4013="0"/>
+ </O76>
+ <O76 Build="15110" A1="76/357" A3="0" A13="0" A14="0" R1421="14/1" A1422="1" A1423="1" A1424="VDE_Engineering" A1425="??_??@VDE;" A1426="1011" A1427="0" A1428="9" A1429="0.25" A1430="-4" A1433="0" A1434="0" A1435="0">
+ <S54x1432 A961="1.5" A962="0" A963="0" A964="0" A965="0" A966="7" A967="0" A968="0" A969="0" A4000="100" A4001="0" A4013="0"/>
+ </O76>
+ <O76 Build="15117" A1="76/358" A3="0" A13="0" A14="0" R1421="14/1" A1422="1" A1423="1" A1424="VDE_Engineering_3D" A1425="??_??@VDE;" A1426="1012" A1427="0" A1428="1" A1429="0.25" A1430="-4" A1433="0" A1434="-77" A1435="1">
+ <S54x1432 A961="5" A962="0" A963="0" A964="0" A965="0" A966="7" A967="0" A968="0" A969="0" A4000="100" A4001="0" A4013="0"/>
+ </O76>
+</EplanPxfRoot>

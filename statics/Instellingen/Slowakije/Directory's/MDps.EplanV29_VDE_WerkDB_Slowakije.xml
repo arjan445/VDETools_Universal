@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- ModalDialogs_USER_PathsScheme: MDps.EplanV29_VDE_WerkDB_Slowakije.xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="ModalDialogs">
+   <LEV1 name="PathsScheme" nodekind="scheme">
+    <LEV2 name="EplanV29_VDE_WerkDB_Slowakije">
+     <LEV3 name="Data" nodekind="block">
+      <Setting name="Articles" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Parts\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="DXFDWG" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\DXF_DWG\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="ExternalDocuments" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Documents\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="FctDefs" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Function definition\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Forms" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Forms\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Frames" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\PlotFrames\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Images" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Images\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="Macros" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Macros\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="MechanicalModels" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Mechanical models\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="Projects" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Projects\SLOVAKIA</Val>
+      </Setting>
+      <Setting name="Revisions" type="string">
+       <Val>$(MD_REVISIONS_INSTALL)</Val>
+      </Setting>
+      <Setting name="Scheme" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Schemes\VDE_SYNC\#VDE</Val>
+      </Setting>
+      <Setting name="Scripts" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Scripts\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Symbols" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Symbols\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Templates" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Templates\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Translations" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\Translation\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="XML" type="string">
+       <Val>\\192.168.2.10\Eplan\Data\XML\VDE_SYNC</Val>
+      </Setting>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val>??_??@Instellingen Directorie&apos;s Eplan_VDE_WerkDB_Slowakije;</Val>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@EplanV29_VDE_WerkDB_Slowakije;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

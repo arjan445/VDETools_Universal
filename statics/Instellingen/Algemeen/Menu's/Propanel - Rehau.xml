@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="TOOLBARS">
+   <LEV1 name="TOOLBAR-0">
+    <LEV2 name="BARDATA">
+     <LEV3 name="ToolBarInfoEx">
+      <LEV4 name="Button-0">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;REH.BE-DIN 75/37,5&quot; /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48010</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>37,5x75</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-1">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;REH.BE-DIN 75/50&quot; /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48011</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>50x75</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-2">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;REH.BE-DIN 75/75&quot; /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48012</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>75x75</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-3">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;REH.BE-DIN 75/100&quot; /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48013</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>100x75</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-4">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;REH.BE-DIN 75/125&quot; /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48014</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>125x75</Val>
+       </Setting>
+      </LEV4>
+      <Setting name="Buttons" type="string">
+       <Val>00200000000000000500ffff01001100434d4643546f6f6c426172427574746f6e8abb000002000000fffffffffffeff07330037002c003500780037003500010000000000000001000000000000000100000001808bbb000002000000fffffffffffeff0535003000780037003500010000000000000001000000000000000100000001808cbb000002000000fffffffffffeff0537003500780037003500010000000000000001000000000000000100000001808dbb000002000000fffffffffffeff06310030003000780037003500010000000000000001000000000000000100000001808ebb000002000000fffffffffffeff06310032003500780037003500010000000000000001000000000000000100000000000000fffeff10500072006f00700061006e0065006c0020002d00200052006500680061007500ff7f0000</Val>
+      </Setting>
+      <Setting name="ID" type="string">
+       <Val>59464</Val>
+      </Setting>
+      <Setting name="IsFloating" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="IsVisible" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="LastUnpermittedCommandIds" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="MRUWidth" type="string">
+       <Val>32767</Val>
+      </Setting>
+      <Setting name="PinState" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RecentFrameAlignment" type="string">
+       <Val>4096</Val>
+      </Setting>
+      <Setting name="RecentRowIndex" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RectRecentDocked" type="string">
+       <Val>0,0,0,0</Val>
+      </Setting>
+      <Setting name="RectRecentFloat" type="string">
+       <Val>1280,693,1515,749</Val>
+      </Setting>
+      <Setting name="Title" type="string">
+       <Val>Propanel - Rehau</Val>
+      </Setting>
+      <Setting name="Version" type="unsigned int">
+       <Val>4</Val>
+      </Setting>
+     </LEV3>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

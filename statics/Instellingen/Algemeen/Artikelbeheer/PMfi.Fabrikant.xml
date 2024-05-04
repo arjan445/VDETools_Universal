@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- PartsManagementGui_USER_FieldFilter: PMfi.Fabrikant.xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="PartsManagementGui">
+   <LEV1 name="FieldFilter" nodekind="scheme">
+    <LEV2 name="Fabrikant">
+     <LEV3 name="Data" nodekind="block">
+      <Setting name="Activ" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="CriteriaType" type="int">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="IgnoreCase" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="Negation" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="Operator" type="int">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="PropDescr" type="string">
+       <Val>22007;0</Val>
+      </Setting>
+      <Setting name="QuickFilter" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RelationDescr" type="string">
+       <Val>0;0</Val>
+      </Setting>
+      <Setting name="SingleValue" type="bool">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="UseWildcards" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="Value" type="string">
+       <Val>RITTAL</Val>
+      </Setting>
+      <Setting name="WholeText" type="bool">
+       <Val>1</Val>
+      </Setting>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val/>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@Fabrikant;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>
