@@ -9,6 +9,12 @@ namespace VDETools
         [DeclareAction("OpenSharepoint")]
         public void Open()
         {
+            string projectname = PathMap.SubstitutePath("$(PROJECTNAME)");
+            if (projectname.Length > 9)
+            {
+                projectname = projectname.Substring(0, 9);
+            }
+
             System.Drawing.Size size = new System.Drawing.Size(400, 70);
             Form inputBox = new Form();
 
@@ -21,7 +27,7 @@ namespace VDETools
             System.Windows.Forms.TextBox textBox = new TextBox();
             textBox.Size = new System.Drawing.Size(size.Width - 10, 23);
             textBox.Location = new System.Drawing.Point(5, 5);
-            textBox.Text = PathMap.SubstitutePath("$(PROJECTNAME)").Substring(0, 9);
+            textBox.Text = projectname;
             inputBox.Controls.Add(textBox);
 
             Button okButton = new Button();
