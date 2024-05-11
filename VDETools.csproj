@@ -45,55 +45,55 @@
   <ItemGroup>
     <Reference Include="Eplan.EplApi.AFu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.AFu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.AFu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.Baseu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.Baseu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.Baseu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.DataModelu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.DataModelu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.DataModelu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.EServicesu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.EServicesu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.EServicesu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.Guiu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.Guiu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.Guiu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.HEServicesu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.HEServicesu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.HEServicesu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.MasterDatau, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.MasterDatau.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.MasterDatau.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.RecorderToolsu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.RecorderToolsu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.RecorderToolsu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.RemoteClientu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.RemoteClientu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.RemoteClientu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.Remotingu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.Remotingu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.Remotingu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.Starteru, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.Starteru.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.Starteru.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.Systemu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=57aaa27e22f7b107, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.Systemu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.Systemu.dll</HintPath>
     </Reference>
     <Reference Include="Eplan.EplApi.WebServiceu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ecea1219c93267ce, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2.9.4\Bin\Eplan.EplApi.WebServiceu.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\EPLAN\Platform\2023.0.3\Bin\Eplan.EplApi.WebServiceu.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
@@ -110,36 +110,29 @@
     <Compile Include="Eplan P8 V2.9.cs" />
     <Compile Include="scripts\ChangeQr.cs" />
     <Compile Include="scripts\EnvironmentTest.cs" />
+    <Compile Include="Eplan 2024.cs" />
     <Compile Include="scripts\ExportDocumentation.cs" />
     <Compile Include="scripts\ExportPdf.cs" />
     <Compile Include="scripts\FastArticleInsert.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="scripts\VdeSettingsGui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scripts\InsertComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="scripts\Layers.cs" />
     <Compile Include="scripts\LoadToolbar.cs" />
     <Compile Include="scripts\OpenExportFolder.cs" />
     <Compile Include="scripts\OpenSharepoint.cs" />
     <Compile Include="scripts\VdeSettings.cs" />
     <Compile Include="scripts\UpdatePages.cs" />
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
+    <EmbeddedResource Include="scripts\VdeSettingsGui.resx">
+      <DependentUpon>VdeSettingsGui.cs</DependentUpon>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <EmbeddedResource Include="scripts\InsertComment.resx">
+      <DependentUpon>InsertComment.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="app.config" />
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">
@@ -165,6 +158,9 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -14,25 +14,6 @@ namespace VDETools
     public class Eplan_P8_V2
     {
         uint menuId = new uint();
-
-        #region action at load in 
-        [DeclareRegister]
-        public void Register()
-        {
-            ScriptHandler();
-        }
-        #endregion
-
-        #region action at load out
-        [DeclareUnregister]
-        public void UnRegister()
-        {
-            Eplan.EplApi.Gui.Menu menu = new Eplan.EplApi.Gui.Menu();
-            menu.RemoveMenuItem(menuId);
-        }
-        #endregion
-
-
         #region menu handler
         [DeclareMenu]
         public void MenuFunction()
@@ -49,16 +30,7 @@ namespace VDETools
             //menu.AddMenuItem("Engineer instellen", "SetEngineer", "SetEngineer", menuId, 6, false, false);
             //menu.AddMenuItem("Versie instellen", "SetVersion", "SetVersion", menuId, 7, false, false);
             //menu.AddMenuItem("Pagina revisie bewerken", "Revision", "Revision", menuId, 8, false, false);
-            menu.AddMenuItem("Basisinstellingen instellen", "Basisinstellingen", "Basisinstellingen", menuId, 11, true, false);
-
-
-            // instellingen menu aanmaken
-            uint settingsmenu = new uint();
-            settingsmenu = menu.AddPopupMenuItem("Instellingen laden", "LoadSettings /location:Panningen", "Panningen", "Selecteer optie", menuId, 10, false, false);
-            menu.AddMenuItem("Boekel", "LoadSettings /location:Boekel", "Boekel", settingsmenu, 2, false, false);
-            menu.AddMenuItem("Breda", "LoadSettings /location:Breda", "Breda", settingsmenu, 3, false, false);
-            menu.AddMenuItem("Noord", "LoadSettings /location:Noord", "Noord", settingsmenu, 4, false, false);
-            menu.AddMenuItem("Slowakije", "LoadSettings /location:Slowakije", "Slowakije", settingsmenu, 5, false, false);
+            menu.AddMenuItem("Instellingen", "VdeSettingsGui", "Instellingen", menuId, 10, true, false);
 
             // pdf menu aanmaken
             uint pdfmenu = new uint();
@@ -77,16 +49,32 @@ namespace VDETools
             menu.AddMenuItem("3D engineering layer deactiveren", "Engineering3DLayer /activate:0", "Layer3DDisable", layermenu, 4, false, false);
 
 
-
             // Werkbalken menu aanmaken
             uint werkmenu = new uint();
             werkmenu = menu.AddPopupMenuItem("Werkbalken", "Selecteer werkbalk:", "-", "", menuId, 9, true, false);
-            //menu.AddMenuItem("Propanel - Rehau 75 hoog", "Rehau75", "Rehau75", werkmenu, 1, false, false);
             menu.AddMenuItem("Propanel - OBO 75 hoog", "LoadToolbar /toolbar:\"Propanel - OBO\"", "OBO75", werkmenu, 2, false, false);
             menu.AddMenuItem("Propanel - Wiska wartels", "LoadToolbar /toolbar:\"Propanel - Wartels\"", "Wartels", werkmenu, 3, false, false);
             menu.AddMenuItem("Propanel - Aardrail", "LoadToolbar /toolbar:\"Propanel - Aardrail\"", "Aardrail", werkmenu, 4, false, false);
             menu.AddMenuItem("Propanel - Algemeen", "LoadToolbar /toolbar:\"Propanel - Algemeen\"", "Propanel", werkmenu, 5, false, false);
             menu.AddMenuItem("Algemeen - Artikel invoegen", "LoadToolbar /toolbar:\"Algemeen - Artikel invoegen\"", "ArtikelMenu", werkmenu, 6, true, false);
+            menu.AddMenuItem("Algemeen - Artikel invoegen", "LoadToolbar /toolbar:\"Propanel Instellingen en genereerstappen_V2\"", "ArtikelMenu", werkmenu, 7, false, false);
+        }
+        #endregion
+
+        #region action at load in 
+        [DeclareRegister]
+        public void Register()
+        {
+            ScriptHandler();
+        }
+        #endregion
+
+        #region action at load out
+        [DeclareUnregister]
+        public void UnRegister()
+        {
+            Eplan.EplApi.Gui.Menu menu = new Eplan.EplApi.Gui.Menu();
+            menu.RemoveMenuItem(menuId);
         }
         #endregion
 
@@ -105,7 +93,7 @@ namespace VDETools
             //TODO Use $(MD_SCRIPTS) subsitute path
             string scriptspath = @"C:\Users\arjan02\Source\Repos\VDETools_Universal\scripts";
 
-            var files = Directory.EnumerateFiles(scriptspath);
+            var files = Directory.EnumerateFiles(scriptspath, "*.cs");
 
             foreach(var file in  files)
             {
