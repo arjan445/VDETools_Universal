@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- PartsManagementGui_USER_FieldMapping: PMifm.VDE_2_Bestaande artikelen updaten (zonder grafische macro).xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="PartsManagementGui">
+   <LEV1 name="FieldMapping" nodekind="scheme">
+    <LEV2 name="VDE_2_Bestaande artikelen updaten (zonder grafische macro)">
+     <LEV3 name="Data" nodekind="block">
+      <LEV4 name="Attribute">
+       <Setting name="SourceId" type="int">
+        <Val/>
+       </Setting>
+       <Setting name="TargetId" type="int">
+        <Val/>
+       </Setting>
+      </LEV4>
+      <LEV4 name="FieldSafe">
+       <Setting name="FunctionTemplate" type="bool">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="Properties" type="string">
+        <Val>22004.0,22041.0,22010.0,22138.0,22028.0,22023.0</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="FreeProperties">
+       <Setting name="SourceId" type="int">
+        <Val/>
+       </Setting>
+       <Setting name="TargetId" type="int">
+        <Val/>
+       </Setting>
+      </LEV4>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val>??_??@Bestaande artikelen updaten:&#10;1) Zonder omschrijving 1&#10;2) Zonder grafische macro&#10;3) Zonder Functiesjablonen;</Val>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@VDE_2_Bestaande artikelen updaten (zonder grafische macro);</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

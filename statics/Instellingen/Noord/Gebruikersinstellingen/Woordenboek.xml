@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings ver="2.9.4" format="2">
+ <CAT name="USER">
+  <MOD name="TRANSLATEGUI">
+   <Setting name="DATABASE_MODE" type="int">
+    <Val>1</Val>
+   </Setting>
+   <Setting name="DATABASE_NAME" type="string">
+    <Val>$(md_translate)\Translate.mdb</Val>
+   </Setting>
+   <Setting name="DATABASE_NAME_SQL" type="string">
+    <Val>vandoren-app07\eplan&#10;WoordenBoek_WerkDB_Heteren&#10;0&#10;&#10;&#10;1</Val>
+    <Val>vandoren-app06\eplan&#10;WoordenBoek_WerkDB_Breda&#10;0&#10;&#10;&#10;1</Val>
+    <Val>vandoren-app05\eplan&#10;WoordenBoek_WerkDB_Panningen&#10;0&#10;&#10;&#10;1</Val>
+    <Val>vandoren-app04&#10;WoordenBoek_WerkDB_Boekel&#10;0&#10;&#10;&#10;1</Val>
+    <Val/>
+   </Setting>
+   <LEV1 name="IMPORT">
+    <Setting name="ALLOW_NEW_RECORDSETS" type="bool">
+     <Val>1</Val>
+    </Setting>
+    <Setting name="REWRITE_EXIST_TRANSLATION" type="int">
+     <Val>2</Val>
+    </Setting>
+   </LEV1>
+   <LEV1 name="INPUT">
+    <Setting name="AUTOCHANGE_LOCKED_TERMS" type="bool"/>
+    <Setting name="OFFER" type="bool">
+     <Val>1</Val>
+    </Setting>
+   </LEV1>
+   <Setting name="NUMBERS_AS_TEXT" type="bool">
+    <Val>0</Val>
+   </Setting>
+   <Setting name="RECOGNIZE_DECIMALS" type="bool">
+    <Val>0</Val>
+   </Setting>
+   <Setting name="REMOVE_LAST_CHAR" type="bool">
+    <Val>1</Val>
+   </Setting>
+  </MOD>
+ </CAT>
+</Settings>

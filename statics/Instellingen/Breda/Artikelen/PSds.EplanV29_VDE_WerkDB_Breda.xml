@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- PartSelectionGui_USER_DataSourceScheme: PSds.EplanV29_VDE_WerkDB_Breda.xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="PartSelectionGui">
+   <LEV1 name="DataSourceScheme" nodekind="scheme">
+    <LEV2 name="EplanV29_VDE_WerkDB_Breda">
+     <LEV3 name="Data" nodekind="block">
+      <LEV4 name="API">
+       <Setting name="ActionDeviceSelection" type="string">
+        <Val/>
+       </Setting>
+       <Setting name="ActionModificator" type="string">
+        <Val/>
+       </Setting>
+       <Setting name="ActionName" type="string">
+        <Val/>
+       </Setting>
+      </LEV4>
+      <Setting name="Access" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="AllowEditing" type="bool">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="CompletePart_CreatePart" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="CompletePart_Schemename" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="DataSourcePart" type="int">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="DataSourceType" type="int">
+       <Val>1</Val>
+      </Setting>
+      <LEV4 name="Internal">
+       <Setting name="DatabaseName" type="string">
+        <Val>$(MD_PARTS)\ESS_part001.mdb</Val>
+        <Val/>
+       </Setting>
+       <Setting name="DatabaseOption" type="int">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="Fields" type="string">
+        <Val>1,22001</Val>
+        <Val>1,22002</Val>
+        <Val>1,22003</Val>
+        <Val>1,22004</Val>
+        <Val>1,22005</Val>
+        <Val>1,22006</Val>
+        <Val>1,22007</Val>
+        <Val>1,22008</Val>
+        <Val>1,22009</Val>
+        <Val>1,22010</Val>
+        <Val>1,22011</Val>
+        <Val>1,22025</Val>
+        <Val>1,22026</Val>
+        <Val>1,22027</Val>
+        <Val>1,22030</Val>
+        <Val>1,22031</Val>
+        <Val>1,22032</Val>
+        <Val>1,22033</Val>
+        <Val>1,22035</Val>
+        <Val>1,22036</Val>
+        <Val>1,22037</Val>
+        <Val>1,22038</Val>
+        <Val>1,22042</Val>
+        <Val>1,22043</Val>
+        <Val>1,22044</Val>
+        <Val>1,22045</Val>
+        <Val>1,22046</Val>
+        <Val>1,22047</Val>
+        <Val>1,22048</Val>
+        <Val>1,22049</Val>
+        <Val>1,22050</Val>
+        <Val>1,22056</Val>
+        <Val>1,22064</Val>
+        <Val>1,22066</Val>
+        <Val>1,22067</Val>
+        <Val>1,22068</Val>
+        <Val>1,22069</Val>
+        <Val>1,22070</Val>
+        <Val>1,22071</Val>
+        <Val>1,22072</Val>
+        <Val>1,22073</Val>
+        <Val>1,22074</Val>
+        <Val>1,22075</Val>
+        <Val>1,22080</Val>
+        <Val>1,22081</Val>
+        <Val>1,22082</Val>
+        <Val>1,22084</Val>
+        <Val>1,22085</Val>
+        <Val>1,22086</Val>
+        <Val>1,22087</Val>
+        <Val>1,22088</Val>
+        <Val>1,22089</Val>
+        <Val>1,22090</Val>
+        <Val>1,22091</Val>
+        <Val>1,22092</Val>
+        <Val>1,22093</Val>
+        <Val>1,22095</Val>
+        <Val>1,22096</Val>
+        <Val>1,22097</Val>
+        <Val>1,22098</Val>
+        <Val>1,22099</Val>
+        <Val>1,22100</Val>
+        <Val>1,22101</Val>
+        <Val>1,22102</Val>
+        <Val>1,22103</Val>
+        <Val>1,22104</Val>
+        <Val>1,22105</Val>
+        <Val>1,22106</Val>
+        <Val>1,22107</Val>
+        <Val>1,22108</Val>
+        <Val>1,22109</Val>
+        <Val>1,22110</Val>
+        <Val>1,22111</Val>
+        <Val>1,22112</Val>
+        <Val>1,22113</Val>
+        <Val>1,22114</Val>
+        <Val>1,22115</Val>
+        <Val>1,22122</Val>
+        <Val>1,22124</Val>
+        <Val>1,22125</Val>
+        <Val>1,22126</Val>
+        <Val>1,22127</Val>
+        <Val>1,22128</Val>
+        <Val>1,22129</Val>
+        <Val>1,22130</Val>
+        <Val>1,22131</Val>
+        <Val>1,22132</Val>
+        <Val>1,22133</Val>
+        <Val>1,22134</Val>
+        <Val>1,22135</Val>
+        <Val>1,22136</Val>
+        <Val>1,22137</Val>
+        <Val>1,22139</Val>
+        <Val>1,22140</Val>
+        <Val>1,22141</Val>
+        <Val>1,22142</Val>
+        <Val>1,22143</Val>
+        <Val>1,22144</Val>
+        <Val>1,22146</Val>
+        <Val>1,22147</Val>
+        <Val>1,22148</Val>
+        <Val>1,22149</Val>
+        <Val>1,22150</Val>
+        <Val>1,22151</Val>
+        <Val>1,22235</Val>
+        <Val>1,22236</Val>
+        <Val>1,22237</Val>
+        <Val>1,22238</Val>
+        <Val>1,22239</Val>
+        <Val>1,22240</Val>
+        <Val>1,22241</Val>
+        <Val>1,22242</Val>
+        <Val>1,22243</Val>
+        <Val>1,22244</Val>
+        <Val>1,22245</Val>
+        <Val>1,22246</Val>
+        <Val>1,22247</Val>
+        <Val>1,22248</Val>
+        <Val>1,22249</Val>
+        <Val>1,22250</Val>
+        <Val>1,22251</Val>
+        <Val>1,22221</Val>
+        <Val>1,22901</Val>
+        <Val>1,22941</Val>
+       </Setting>
+       <LEV5 name="TreeConfigScheme">
+        <Setting name="LastUsed" type="string">
+         <Val>Standardvorgabe EPLAN</Val>
+        </Setting>
+       </LEV5>
+      </LEV4>
+      <LEV4 name="ODBC">
+       <Setting name="DataSource" type="string">
+        <Val/>
+       </Setting>
+       <Setting name="FieldBracket" type="bool">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="Fields" type="string">
+        <Val>0,22001,1</Val>
+        <Val>0,22024,0</Val>
+        <Val>0,22023,0</Val>
+        <Val>1,22002,0</Val>
+        <Val>1,22003,0</Val>
+        <Val>1,22004,0</Val>
+        <Val>1,22005,0</Val>
+        <Val>1,22006,0</Val>
+        <Val>1,22007,0</Val>
+        <Val>1,22008,0</Val>
+        <Val>1,22009,0</Val>
+        <Val>1,22010,0</Val>
+        <Val>1,22011,0</Val>
+        <Val>1,22012,0</Val>
+        <Val>1,22013,0</Val>
+        <Val>1,22014,0</Val>
+        <Val>1,22022,0</Val>
+        <Val>1,22025,0</Val>
+        <Val>1,22026,0</Val>
+        <Val>1,22027,0</Val>
+        <Val>1,22028,0</Val>
+        <Val>1,22030,0</Val>
+        <Val>1,22031,0</Val>
+        <Val>1,22032,0</Val>
+        <Val>1,22033,0</Val>
+        <Val>1,22035,0</Val>
+        <Val>1,22036,0</Val>
+        <Val>1,22037,0</Val>
+        <Val>1,22038,0</Val>
+        <Val>1,22041,0</Val>
+        <Val>1,22042,0</Val>
+        <Val>1,22043,0</Val>
+        <Val>1,22044,0</Val>
+        <Val>1,22045,0</Val>
+        <Val>1,22046,0</Val>
+        <Val>1,22047,0</Val>
+        <Val>1,22048,0</Val>
+        <Val>1,22049,0</Val>
+        <Val>1,22050,0</Val>
+        <Val>1,22063,0</Val>
+        <Val>1,22064,0</Val>
+        <Val>1,22065,0</Val>
+        <Val>1,22066,0</Val>
+        <Val>1,22067,0</Val>
+        <Val>1,22068,0</Val>
+        <Val>1,22069,0</Val>
+        <Val>1,22070,0</Val>
+        <Val>1,22071,0</Val>
+        <Val>1,22072,0</Val>
+        <Val>1,22073,0</Val>
+        <Val>1,22074,0</Val>
+        <Val>1,22075,0</Val>
+        <Val>1,22078,0</Val>
+        <Val>1,22079,0</Val>
+        <Val>1,22080,0</Val>
+        <Val>1,22081,0</Val>
+        <Val>1,22082,0</Val>
+        <Val>1,22084,0</Val>
+        <Val>1,22085,0</Val>
+        <Val>1,22086,0</Val>
+        <Val>1,22087,0</Val>
+        <Val>1,22088,0</Val>
+        <Val>1,22089,0</Val>
+        <Val>1,22090,0</Val>
+        <Val>1,22091,0</Val>
+        <Val>1,22092,0</Val>
+        <Val>1,22093,0</Val>
+        <Val>1,22095,0</Val>
+        <Val>1,22096,0</Val>
+        <Val>1,22097,0</Val>
+        <Val>1,22098,0</Val>
+        <Val>1,22099,0</Val>
+        <Val>1,22100,0</Val>
+        <Val>1,22101,0</Val>
+        <Val>1,22102,0</Val>
+        <Val>1,22103,0</Val>
+        <Val>1,22104,0</Val>
+        <Val>1,22105,0</Val>
+        <Val>1,22106,0</Val>
+        <Val>1,22107,0</Val>
+        <Val>1,22108,0</Val>
+        <Val>1,22109,0</Val>
+        <Val>1,22110,0</Val>
+        <Val>1,22111,0</Val>
+        <Val>1,22112,0</Val>
+        <Val>1,22113,0</Val>
+        <Val>1,22114,0</Val>
+        <Val>1,22115,0</Val>
+        <Val>1,22116,0</Val>
+        <Val>1,22117,0</Val>
+        <Val>1,22118,0</Val>
+        <Val>1,22119,0</Val>
+        <Val>1,22120,0</Val>
+        <Val>1,22121,0</Val>
+        <Val>1,22122,0</Val>
+        <Val>1,22124,0</Val>
+        <Val>1,22125,0</Val>
+        <Val>1,22126,0</Val>
+        <Val>1,22127,0</Val>
+        <Val>1,22128,0</Val>
+        <Val>1,22129,0</Val>
+        <Val>1,22130,0</Val>
+        <Val>1,22131,0</Val>
+        <Val>1,22132,0</Val>
+        <Val>1,22133,0</Val>
+        <Val>1,22134,0</Val>
+        <Val>1,22135,0</Val>
+        <Val>1,22136,0</Val>
+        <Val>1,22137,0</Val>
+        <Val>1,22138,0</Val>
+        <Val>1,22139,0</Val>
+        <Val>1,22140,0</Val>
+        <Val>1,22141,0</Val>
+        <Val>1,22142,0</Val>
+        <Val>1,22143,0</Val>
+        <Val>1,22144,0</Val>
+        <Val>1,22145,0</Val>
+        <Val>1,22146,0</Val>
+        <Val>1,22147,0</Val>
+        <Val>1,22148,0</Val>
+        <Val>1,22149,0</Val>
+        <Val>1,22150,0</Val>
+        <Val>1,22151,0</Val>
+        <Val>1,22152,0</Val>
+        <Val>1,22153,0</Val>
+        <Val>1,22154,0</Val>
+        <Val>1,22155,0</Val>
+        <Val>1,22156,0</Val>
+        <Val>1,22157,0</Val>
+        <Val>1,22221,0</Val>
+        <Val>1,22198,0</Val>
+        <Val>1,22199,0</Val>
+        <Val>1,22217,0</Val>
+        <Val>1,22941,0</Val>
+        <Val>1,22219,0</Val>
+        <Val>1,22215,0</Val>
+        <Val>1,22220,0</Val>
+        <Val>1,22901,0</Val>
+        <Val>1,22056,0</Val>
+        <Val>1,22215,0</Val>
+        <Val>1,22160,0</Val>
+        <Val>1,22161,0</Val>
+        <Val>1,22162,0</Val>
+        <Val>1,22163,0</Val>
+        <Val>1,22164,0</Val>
+        <Val>1,22165,0</Val>
+        <Val>1,22166,0</Val>
+        <Val>1,22167,0</Val>
+        <Val>1,22168,0</Val>
+        <Val>1,22169,0</Val>
+        <Val>1,22170,0</Val>
+        <Val>1,22171,0</Val>
+        <Val>1,22172,0</Val>
+        <Val>1,22173,0</Val>
+        <Val>1,22174,0</Val>
+        <Val>1,22175,0</Val>
+        <Val>1,22176,0</Val>
+        <Val>1,22177,0</Val>
+        <Val>1,22178,0</Val>
+        <Val>1,22179,0</Val>
+        <Val>1,22180,0</Val>
+        <Val>1,22181,0</Val>
+        <Val>1,22182,0</Val>
+        <Val>1,22183,0</Val>
+        <Val>1,22184,0</Val>
+        <Val>1,22185,0</Val>
+        <Val>1,22186,0</Val>
+        <Val>1,22187,0</Val>
+        <Val>1,22188,0</Val>
+        <Val>1,22189,0</Val>
+        <Val>1,22190,0</Val>
+        <Val>1,22191,0</Val>
+        <Val>1,22192,0</Val>
+        <Val>1,22193,0</Val>
+        <Val>1,22194,0</Val>
+        <Val>1,22200,0</Val>
+        <Val>1,22201,0</Val>
+        <Val>1,22202,0</Val>
+        <Val>1,22203,0</Val>
+        <Val>1,22204,0</Val>
+        <Val>1,22205,0</Val>
+        <Val>1,22207,0</Val>
+        <Val>1,22216,0</Val>
+        <Val>1,22058,0</Val>
+        <Val>1,22285,0</Val>
+        <Val>1,22286,0</Val>
+        <Val>1,22287,0</Val>
+       </Setting>
+       <Setting name="Password" type="string">
+        <Val/>
+       </Setting>
+       <Setting name="RememberPassword" type="bool">
+        <Val/>
+       </Setting>
+       <Setting name="Sql" type="string">
+        <Val>SELECT TOP 100 * FROM tblParts</Val>
+       </Setting>
+       <Setting name="UserName" type="string">
+        <Val/>
+       </Setting>
+      </LEV4>
+      <Setting name="PH_DontSynchronizeParts" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="ResolveAssembly" type="bool">
+       <Val/>
+      </Setting>
+      <Setting name="ResolveAssemblyLevel" type="int">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="SqlServer" type="string">
+       <Val>vandoren-app06\eplan&#10;EPLANV27_VDE_WerkDB_Breda&#10;0&#10;&#10;&#10;1</Val>
+      </Setting>
+      <Setting name="WantUseSqlServerFullTextCatalog" type="bool">
+       <Val/>
+      </Setting>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val/>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@EplanV29_VDE_WerkDB_Breda;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

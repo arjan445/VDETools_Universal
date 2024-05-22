@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- ModalDialogs_USER_PathsScheme: MDps.EplanV29_VDE_WerkDB_Noord.xml -->
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="ModalDialogs">
+   <LEV1 name="PathsScheme" nodekind="scheme">
+    <LEV2 name="EplanV29_VDE_WerkDB_Noord">
+     <LEV3 name="Data" nodekind="block">
+      <Setting name="Articles" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Artikelen\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="DXFDWG" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Dxf_Dwg\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="ExternalDocuments" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Documenten\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="FctDefs" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Functiedefinitie\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Forms" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Formulieren\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Frames" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Plotkaders\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Images" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Afbeeldingen\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="Macros" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Macro&apos;s\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="MechanicalModels" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Mechanische modellen\VDE_SYNC</Val>
+      </Setting>
+      <Setting name="Projects" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Projecten</Val>
+      </Setting>
+      <Setting name="Revisions" type="string">
+       <Val>$(MD_REVISIONS_INSTALL)</Val>
+      </Setting>
+      <Setting name="Scheme" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Schema&apos;s\VDE_SYNC\#VDE</Val>
+      </Setting>
+      <Setting name="Scripts" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Scripts\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Symbols" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Symbolen\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Templates" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Sjablonen\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="Translations" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Vertaling\VDE_SYNC\#VDE\V2.9</Val>
+      </Setting>
+      <Setting name="XML" type="string">
+       <Val>\\VANDOREN-DC4\Data\EPLAN_P8\Electric P8\Xml\VDE_SYNC</Val>
+      </Setting>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val>??_??@Instellingen Directorie&apos;s Eplan_VDE_WerkDB_Noord;</Val>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@EplanV29_VDE_WerkDB_Noord;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

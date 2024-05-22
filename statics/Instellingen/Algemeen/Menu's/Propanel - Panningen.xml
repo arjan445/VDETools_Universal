@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="TOOLBARS">
+   <LEV1 name="TOOLBAR-0">
+    <LEV2 name="BARDATA">
+     <LEV3 name="ToolBarInfoEx">
+      <LEV4 name="Button-0">
+       <Setting name="Action" type="string">
+        <Val>ArtikelInvoegen</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48001</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>Snel Artikel invoegen</Val>
+       </Setting>
+      </LEV4>
+      <Setting name="Buttons" type="string">
+       <Val>00200000010000000100ffff01001100434d4643546f6f6c426172427574746f6e81bb000002000100fffffffffffeff1553006e0065006c00200041007200740069006b0065006c00200069006e0076006f006500670065006e00000000000000000001000000000000000100000000000000fffeff14500072006f00700061006e0065006c0020002d002000500061006e006e0069006e00670065006e007b000000</Val>
+      </Setting>
+      <Setting name="ID" type="string">
+       <Val>59464</Val>
+      </Setting>
+      <Setting name="IsFloating" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="IsVisible" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="LastUnpermittedCommandIds" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="MRUWidth" type="string">
+       <Val>123</Val>
+      </Setting>
+      <Setting name="PinState" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RecentFrameAlignment" type="string">
+       <Val>4096</Val>
+      </Setting>
+      <Setting name="RecentRowIndex" type="string">
+       <Val>9</Val>
+      </Setting>
+      <Setting name="RectRecentDocked" type="string">
+       <Val>1066,80,1200,108</Val>
+      </Setting>
+      <Setting name="RectRecentFloat" type="string">
+       <Val>481,515,612,571</Val>
+      </Setting>
+      <Setting name="Title" type="string">
+       <Val>Propanel - Panningen</Val>
+      </Setting>
+      <Setting name="Version" type="unsigned int">
+       <Val>4</Val>
+      </Setting>
+     </LEV3>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

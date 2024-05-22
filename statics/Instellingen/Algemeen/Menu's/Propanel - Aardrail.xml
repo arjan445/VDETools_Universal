@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="TOOLBARS">
+   <LEV1 name="TOOLBAR-0">
+    <LEV2 name="BARDATA">
+     <LEV3 name="ToolBarInfoEx">
+      <LEV4 name="Button-0">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:WOHN.01926 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48021</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>61,5mm</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-1">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:WOHN.01928 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48001</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>187 mm</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-2">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:WOHN.01929 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48022</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>250 mm</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-3">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:WOHN.01930 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48023</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>310 mm</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-4">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:WOHN.01932 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48024</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>1000 mm</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-5">
+       <Setting name="ID" type="string">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-6">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:DIJ.01093 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48026</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>100A (M8)</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-7">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:DIJ.01094 /PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48027</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>200A (M10)</Val>
+       </Setting>
+      </LEV4>
+      <Setting name="Buttons" type="string">
+       <Val>00200000000000000800ffff01001100434d4643546f6f6c426172427574746f6e95bb000002000400fffffffffffeff06360031002c0035006d006d000100000000000000010000000000000001000000018081bb000002000400fffffffffffeff0631003800370020006d006d000100000000000000010000000000000001000000018096bb000002000400fffffffffffeff0632003500300020006d006d000100000000000000010000000000000001000000018097bb000002000400fffffffffffeff0633003100300020006d006d000000000000000000010000000000000001000000018098bb000002000400fffffffffffeff07310030003000300020006d006d00010000000000000001000000000000000100000001800000000001000000fffffffffffeff00000000000000000000000000010000000100000001809abb000002000400fffffffffffeff093100300030004100200028004d0038002900010000000000000001000000000000000100000001809bbb000002000400fffffffffffeff0a3200300030004100200028004d00310030002900010000000000000001000000000000000100000000000000fffeff13500072006f00700061006e0065006c0020002d00200041006100720064007200610069006c00d9000000</Val>
+      </Setting>
+      <Setting name="ID" type="string">
+       <Val>59463</Val>
+      </Setting>
+      <Setting name="IsFloating" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="IsVisible" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="LastUnpermittedCommandIds" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="MRUWidth" type="string">
+       <Val>217</Val>
+      </Setting>
+      <Setting name="PinState" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RecentFrameAlignment" type="string">
+       <Val>8192</Val>
+      </Setting>
+      <Setting name="RecentRowIndex" type="string">
+       <Val>3</Val>
+      </Setting>
+      <Setting name="RectRecentDocked" type="string">
+       <Val>1231,52,1724,80</Val>
+      </Setting>
+      <Setting name="RectRecentFloat" type="string">
+       <Val>960,508,1185,593</Val>
+      </Setting>
+      <Setting name="Title" type="string">
+       <Val>Propanel - Aardrail</Val>
+      </Setting>
+      <Setting name="Version" type="unsigned int">
+       <Val>4</Val>
+      </Setting>
+     </LEV3>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>

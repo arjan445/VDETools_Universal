@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings format="2">
+ <CAT name="USER">
+  <MOD name="TOOLBARS">
+   <LEV1 name="TOOLBAR-0">
+    <LEV2 name="BARDATA">
+     <LEV3 name="ToolBarInfoEx">
+      <LEV4 name="Button-0">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 12&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48002</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M12</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-1">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 16&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48003</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M16</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-2">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 20&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48004</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M20</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-3">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 25&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48005</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M25</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-4">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 32&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48006</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M32</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-5">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 40&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48007</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M40</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-6">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 50&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48008</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M50</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="Button-7">
+       <Setting name="Action" type="string">
+        <Val>XDLInsertDeviceAction /PartNr:&quot;WIS.ESKV 63&quot;/PartVariant:1</Val>
+       </Setting>
+       <Setting name="ID" type="string">
+        <Val>48009</Val>
+       </Setting>
+       <Setting name="ImageIdx" type="string">
+        <Val>-1</Val>
+       </Setting>
+       <Setting name="Tooltip" type="string">
+        <Val>M63</Val>
+       </Setting>
+      </LEV4>
+      <Setting name="Buttons" type="string">
+       <Val>00200000000000000800ffff01001100434d4643546f6f6c426172427574746f6e82bb000002000000fffffffffffeff034d00310032000100000000000000010000000000000001000000018083bb000002000000fffffffffffeff034d00310036000100000000000000010000000000000001000000018084bb000002000000fffffffffffeff034d00320030000100000000000000010000000000000001000000018085bb000002000000fffffffffffeff034d00320035000100000000000000010000000000000001000000018086bb000002000000fffffffffffeff034d00330032000100000000000000010000000000000001000000018087bb000002000000fffffffffffeff034d00340030000100000000000000010000000000000001000000018088bb000002000000fffffffffffeff034d00350030000100000000000000010000000000000001000000018089bb000002000000fffffffffffeff034d0036003300010000000000000001000000000000000100000000000000fffeff12500072006f00700061006e0065006c0020002d002000570061007200740065006c00730011010000</Val>
+      </Setting>
+      <Setting name="ID" type="string">
+       <Val>59465</Val>
+      </Setting>
+      <Setting name="IsFloating" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="IsVisible" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="LastUnpermittedCommandIds" type="string">
+       <Val/>
+      </Setting>
+      <Setting name="MRUWidth" type="string">
+       <Val>273</Val>
+      </Setting>
+      <Setting name="PinState" type="string">
+       <Val>0</Val>
+      </Setting>
+      <Setting name="RecentFrameAlignment" type="string">
+       <Val>4096</Val>
+      </Setting>
+      <Setting name="RecentRowIndex" type="string">
+       <Val>1</Val>
+      </Setting>
+      <Setting name="RectRecentDocked" type="string">
+       <Val>2244,24,2528,52</Val>
+      </Setting>
+      <Setting name="RectRecentFloat" type="string">
+       <Val>1490,272,1771,328</Val>
+      </Setting>
+      <Setting name="Title" type="string">
+       <Val>Propanel - Wartels</Val>
+      </Setting>
+      <Setting name="Version" type="unsigned int">
+       <Val>4</Val>
+      </Setting>
+     </LEV3>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>
